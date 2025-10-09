@@ -41,7 +41,7 @@ The system is designed for mobility and convenience, leveraging the **ESP32's in
 * The ESP32 is programmed to act as a **Bluetooth Serial Server**.
 * A **Mobile Application** is used to pair and connect to the ESP32's Bluetooth device.
 * Processed vital sign data is continuously streamed over the **Bluetooth Serial connection** to the mobile app for remote visualization.
-
+  
 ---
 ## 💻 Software and Libraries
 
